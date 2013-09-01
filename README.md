@@ -1,6 +1,5 @@
-# InboundioSeoChecklist
+# SEO Checklist for Rails
 
-TODO: Write a gem description
 SEO Checklist is a simple gem which tells you the list of ruby gems which you can use to make your ror app more search engine friendly. It also suggests some code changes and edits. You can find more exhaustive list here http://www.inboundio.com/blog/seo-for-ruby-on-rails-complete-guide/
 
 ## Installation
@@ -21,7 +20,7 @@ Or install it yourself as:
 
 After installing, run 
 
-    $inboundioseochecklist
+    $ inboundioseochecklist
 
 and it should display the complete checklist at command line.
 
