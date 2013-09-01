@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'inboundio_seo_checklist'
+
+checklist = InboundioSeoChecklist::Checklist.new
+checklist.display
